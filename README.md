@@ -1,3 +1,5 @@
+![My Image](my-image.jpg)
+
 ### Hi there 👋
 
 I am KAREN CAYE ZARATE, A Coder/Virtual Assistant/Web Designer Im a Self Taught coder and I really love Writing, Arts and doing Virtual works.
@@ -14,4 +16,4 @@ Find out more about me & feel free to connect with me here.
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+
